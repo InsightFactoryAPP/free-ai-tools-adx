@@ -105,6 +105,7 @@ This repository aims to collect them all in one place.
 | 55 | 🎨 | Imagefree | https://imagefree.org/ | 🟢 Unlimited | Truly Unlimited, Instant Text to Image AI |
 | 56 | 🎨 | Whisk AI | https://www.whisk-ai.net/ | 🟢 Unlimited | Image Remixer Lets You Create Stunning Visuals |
 | 57 | 🎨 | FreeGen | https://freegen.app/ | 🟢 Unlimited | Create AI art instantly. Free, no signup |
+| 58 | 🎬 | Creatify | https://creatify.ai/ | 🔵 Resetting Limits | Create AI UGC Ads on Demand |
 
 ---
 
