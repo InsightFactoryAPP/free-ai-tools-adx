@@ -16,6 +16,8 @@ This repository aims to collect them all in one place.
 
 🔥 [WizGenerator](https://wizgenerator.com/)
 
+🔥 [Freepik AI (Third-party)](https://www.freepikai.net/)
+
 ---
 
 ## 📦 What You'll Find
@@ -108,6 +110,7 @@ This repository aims to collect them all in one place.
 | 57 | 🎨 | FreeGen | https://freegen.app/ | 🟢 Unlimited | Create AI art instantly. Free, no signup |
 | 58 | 🎬 | Creatify | https://creatify.ai/ | 🔵 Resetting Limits | Create AI UGC Ads on Demand |
 | 59 | 📊 | PPT AI | https://ppt.ai/ | 🔵 Resetting Limits | Transform documents, spreadsheets, audio, or video into 20+ professional slides |
+| 60 | 🎨 🎬 | Freepik AI (Third-party) | https://www.freepikai.net/ | 🟢 Unlimited | Free & unlimited AI image and video generation |
 
 ---
 
