@@ -14,6 +14,10 @@ This repository aims to collect them all in one place.
 
 🔥 [Locally Uncensored](https://locallyuncensored.com/)
 
+🔥 [Agnes Video Generator](https://video.lichuanyang.top/zh/demo)
+
+🔥 [Toolbly AI Video Generator](https://toolbly.com/ai-tools/free-ai-video-generator)
+
 🔥 [WizGenerator](https://wizgenerator.com/)
 
 🔥 [Freepik AI (Third-party)](https://www.freepikai.net/)
@@ -111,6 +115,9 @@ This repository aims to collect them all in one place.
 | 58 | 🎬 | Creatify | https://creatify.ai/ | 🔵 Resetting Limits | Create AI UGC Ads on Demand |
 | 59 | 📊 | PPT AI | https://ppt.ai/ | 🔵 Resetting Limits | Transform documents, spreadsheets, audio, or video into 20+ professional slides |
 | 60 | 🎨 🎬 | Freepik AI (Third-party) | https://www.freepikai.net/ | 🟢 Unlimited | Free & unlimited AI image and video generation |
+| 61 | 🎬 | Agnes Video Generator | https://video.lichuanyang.top/zh/demo | 🟢 Unlimited | Open-source, self-hosted AI video generator — completely free |
+| 62 | 🎨 | Vexyn | https://vexyn.app/ | 🟢 Unlimited | AI image generation that runs entirely on your device |
+| 63 | 🎬 | Toolbly AI Video Generator | https://toolbly.com/ai-tools/free-ai-video-generator | 🟢 Unlimited | Generate unlimited free AI videos directly in your browser |
 
 ---
 
