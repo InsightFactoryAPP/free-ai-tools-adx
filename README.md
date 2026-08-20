@@ -33,6 +33,7 @@ This repository aims to collect them all in one place.
 - 🌍 Translation
 - 🧠 Mind Mapping
 - 📚 Education
+- 📊 Presentation Creation
 - 📄 PDF & Documents
 - 🎭 Face Swap
 - 👔 Clothes Changer
@@ -106,6 +107,7 @@ This repository aims to collect them all in one place.
 | 56 | 🎨 | Whisk AI | https://www.whisk-ai.net/ | 🟢 Unlimited | Image Remixer Lets You Create Stunning Visuals |
 | 57 | 🎨 | FreeGen | https://freegen.app/ | 🟢 Unlimited | Create AI art instantly. Free, no signup |
 | 58 | 🎬 | Creatify | https://creatify.ai/ | 🔵 Resetting Limits | Create AI UGC Ads on Demand |
+| 59 | 📊 | PPT AI | https://ppt.ai/ | 🔵 Resetting Limits | Transform documents, spreadsheets, audio, or video into 20+ professional slides |
 
 ---
 
