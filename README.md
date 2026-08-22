@@ -18,6 +18,8 @@ This repository aims to collect them all in one place.
 
 🔥 [Toolbly AI Video Generator](https://toolbly.com/ai-tools/free-ai-video-generator)
 
+🔥 [HyVideo](https://hyvideo.app/)
+
 🔥 [WizGenerator](https://wizgenerator.com/)
 
 🔥 [Freepik AI (Third-party)](https://www.freepikai.net/)
@@ -31,6 +33,7 @@ This repository aims to collect them all in one place.
 - 💻 Coding
 - 🎨 Image Generation
 - 🎬 Video Generation
+- ✂️ Video Editing
 - 🎙️ Voice Cloning
 - 🎵 Audio & Music
 - 🎧 Audio to Text
@@ -119,6 +122,7 @@ This repository aims to collect them all in one place.
 | 62 | 🎨 | Vexyn | https://vexyn.app/ | 🟢 Unlimited | AI image generation that runs entirely on your device |
 | 63 | 🎬 | Toolbly AI Video Generator | https://toolbly.com/ai-tools/free-ai-video-generator | 🟢 Unlimited | Generate unlimited free AI videos directly in your browser |
 | 64 | 🎬 | LoreMotion | https://loremotion.com/generate | 🟢 Unlimited | No subscription, No credits, No paywall on quality, A short ad covers the GPU bill |
+| 65 | 🎬 🎨 🎙️ ✂️ | HyVideo | https://hyvideo.app/ | 🟢 Unlimited | Professional AI video tools, Free forever · No credit card · No watermarks |
 
 ---
 
