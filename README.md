@@ -118,6 +118,7 @@ This repository aims to collect them all in one place.
 | 61 | 🎬 | Agnes Video Generator | https://video.lichuanyang.top/zh/demo | 🟢 Unlimited | Open-source, self-hosted AI video generator — completely free |
 | 62 | 🎨 | Vexyn | https://vexyn.app/ | 🟢 Unlimited | AI image generation that runs entirely on your device |
 | 63 | 🎬 | Toolbly AI Video Generator | https://toolbly.com/ai-tools/free-ai-video-generator | 🟢 Unlimited | Generate unlimited free AI videos directly in your browser |
+| 64 | 🎬 | LoreMotion | https://loremotion.com/generate | 🟢 Unlimited | No subscription, No credits, No paywall on quality, A short ad covers the GPU bill |
 
 ---
 
