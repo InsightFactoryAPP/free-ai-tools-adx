@@ -20,6 +20,8 @@ This repository aims to collect them all in one place.
 
 🔥 [HyVideo](https://hyvideo.app/)
 
+🔥 [PromptSpace](https://www.promptspace.in/)
+
 🔥 [WizGenerator](https://wizgenerator.com/)
 
 🔥 [Freepik AI (Third-party)](https://www.freepikai.net/)
@@ -31,6 +33,7 @@ This repository aims to collect them all in one place.
 - 🤖 Chatbots & General AI
 - 🧩 AI Agents
 - 💻 Coding
+- ⚡ Prompt Generation
 - 🎨 Image Generation
 - 🎬 Video Generation
 - ✂️ Video Editing
@@ -123,6 +126,7 @@ This repository aims to collect them all in one place.
 | 63 | 🎬 | Toolbly AI Video Generator | https://toolbly.com/ai-tools/free-ai-video-generator | 🟢 Unlimited | Generate unlimited free AI videos directly in your browser |
 | 64 | 🎬 | LoreMotion | https://loremotion.com/generate | 🟢 Unlimited | No subscription, No credits, No paywall on quality, A short ad covers the GPU bill |
 | 65 | 🎬 🎨 🎙️ ✂️ | HyVideo | https://hyvideo.app/ | 🟢 Unlimited | Professional AI video tools, Free forever · No credit card · No watermarks |
+| 66 | ⚡ 🎬 🎨 🛠️ | PromptSpace | https://www.promptspace.in/ | 🟢 Unlimited | 5,000+ free prompts, AI image generator, video, upscaler, logo etc., — no signup, browser-based |
 
 ---
 
